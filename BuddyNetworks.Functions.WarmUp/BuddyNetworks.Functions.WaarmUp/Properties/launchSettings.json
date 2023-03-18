@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "BuddyNetworks.Functions.WarmUp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7027",
+      "launchBrowser": false
+    }
+  }
+}
